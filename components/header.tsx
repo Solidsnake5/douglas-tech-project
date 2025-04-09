@@ -41,7 +41,7 @@ export default function Header() {
           <div className="text-white text-base sm:text-lg lg:text-xl font-semibold whitespace-nowrap">
             CALL US:{" "}
             <a href="tel:347-533-3725" className="hover:underline">
-              347-533-3725
+            1 (929) 382-7523
             </a>
           </div>
           <Link
